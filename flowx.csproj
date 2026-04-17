@@ -2,11 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0-windows</TargetFramework>
-    <AssemblyName>Flow.Launcher.Plugin.ShareX_Flow_Plugin</AssemblyName>
-    <PackageId>Flow.Launcher.Plugin.ShareX_Flow_Plugin</PackageId>
-    <Authors>Dufguix</Authors>
-    <PackageProjectUrl>https://github.com/Dufguix/Flow.Launcher.Plugin.ShareX_Flow_Plugin</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/Dufguix/Flow.Launcher.Plugin.ShareX_Flow_Plugin</RepositoryUrl>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>flowx</RootNamespace>
+    <AssemblyName>flowx</AssemblyName>
+    <PackageId>flowx</PackageId>
+    <Authors>vah</Authors>
+    <PackageProjectUrl>https://github.com/vahrina/flowx</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/vahrina/flowx</RepositoryUrl>
     <PackageTags>flow-launcher flow-plugin</PackageTags>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>

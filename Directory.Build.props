@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <ArtifactsRoot>$(MSBuildThisFileDirectory).artifacts</ArtifactsRoot>
+    <BaseIntermediateOutputPath>$(ArtifactsRoot)\obj\</BaseIntermediateOutputPath>
+    <BaseOutputPath>$(ArtifactsRoot)\bin\</BaseOutputPath>
+  </PropertyGroup>
+</Project>
